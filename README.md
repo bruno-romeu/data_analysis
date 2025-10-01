@@ -1,4 +1,4 @@
-# 📈 Análise de Vendas E-commerce
+# Análise de Vendas E-commerce
 
 Este projeto realiza uma análise exploratória de um conjunto de dados de transações de vendas de um e-commerce, com o objetivo de extrair insights sobre o comportamento de compra dos clientes.
 
@@ -6,7 +6,7 @@ O script principal, contido no Jupyter Notebook `analise.ipynb`, carrega os dado
 
 ---
 
-## 🚀 Análises Realizadas
+## Análises Realizadas
 
 Atualmente, o projeto extrai as seguintes informações:
 
@@ -18,7 +18,7 @@ Atualmente, o projeto extrai as seguintes informações:
 
 ---
 
-## 📊 Visualizações Geradas
+## Visualizações Geradas
 
 O script gera os seguintes gráficos para apresentar os resultados:
 * Gráfico de barras das vendas totais por mês/ano.
@@ -29,7 +29,7 @@ O script gera os seguintes gráficos para apresentar os resultados:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3**
 * **Pandas:** Para manipulação e análise dos dados.
